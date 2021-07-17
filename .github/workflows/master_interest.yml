@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: Interest
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8BDC58A427EE4F478C15CF646E0DEE4F }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_48DF5E3B74E34418A3242337E2FD6F95 }}
 
